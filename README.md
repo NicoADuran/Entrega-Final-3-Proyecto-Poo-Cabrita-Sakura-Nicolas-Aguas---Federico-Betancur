@@ -107,10 +107,8 @@ Descargas/Informacion_del_DD-MM-YYYY.txt
 ------------------------------------------------------------
  EJECUCIÓN
 
-1. Clonar o copiar el proyecto.
-2. Abrirlo en tu IDE.
-3. Ejecutar la clase Main.
-4. Interactuar mediante el menú en consola.
+1.El Proyecto Spring ejecuta la base de datos del proyecto
+2.El otro proyecto ejecuta en consola con un persistencia sencilla.
 
 ------------------------------------------------------------
  NOTAS FINALES
